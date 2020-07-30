@@ -1,10 +1,10 @@
-### 👋 About Stoxford 👋
+### 🍒🍒 About Stoxford 🍒🍒
 #### Languages
-* C++
-* Java
-* JavaScript
+* C++ 🔥
+* Java 🔥
+* JavaScript 🔥
 * PHP
-* SQL
+* SQL 🔥
 * HTML
 * CSS
 * XML
@@ -14,37 +14,37 @@
 
 #### IDEs
 * Apache NetBeans
-* Visual Studio Code
-* PyCharm + Anaconda
+* Visual Studio Code 🔥
+* PyCharm + Anaconda 🐍
 
 #### Operating Systems
-* Ubuntu 18.04 Server
+* Ubuntu 18.04 Server 🔥
 * macOS Catalina
 * Windows 10
 
 #### Other Technologies
-* Amazon Web Services
-* Docker
-* MySQL / MariaDB
+* Amazon Web Services 🔥
+* Docker 🔥
+* MySQL / MariaDB 🔥
 * Nginx
 * Apache TomEE Plume
 * VirtualBox
 
 #### Certifications
-* AWS Certified Big Data - Specialty
-* AWS Certified Solutions Architect - Associate
+* [AWS Certified Big Data - Specialty](https://aws.amazon.com/certification/certified-big-data-specialty/) 🔥
+* [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) 🔥
 
 #### Education
-* MS in Information Systems Engineering, Johns Hopkins University
-* Certificate in Computer Information Systems, Hawaii Pacific University
-* BA in the Social Sciences, Hawaii Pacific University
+* [MS in Information Systems Engineering](https://ep.jhu.edu/programs-and-courses/programs/information-systems-engineering), Johns Hopkins University 🔥
+* Certificate in Computer Information Systems, Hawaii Pacific University 🍍
+* BA in the Social Sciences, Hawaii Pacific University 🍍
 
 #### Project Interests
-* FinTech
-* Cloud Computing
-* Big Data
+* [FinTech](https://en.wikipedia.org/wiki/Financial_technology) 💵
+* Cloud Computing 🔥
+* Big Data 🔥
 * Data Visualization
-* Parallelism and Concurrency
+* Parallelism, Concurrency, and Multithreading 🔥
 * Full-Stack Web Development
 
 <!--
