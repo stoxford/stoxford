@@ -1,7 +1,7 @@
 ### 🍒🍒 About Stoxford 🍒🍒
 #### Languages
 * C++ 🔥
-* Java 🔥
+* Java ☕
 * JavaScript 🔥
 * PHP
 * SQL 🔥
@@ -23,16 +23,16 @@
 * Windows 10
 
 #### Other Technologies
-* Amazon Web Services 🔥
-* Docker 🔥
+* Amazon Web Services ☁️
+* Docker 🐳
 * MySQL / MariaDB 🔥
 * Nginx
 * Apache TomEE Plume
 * VirtualBox
 
 #### Certifications
-* [AWS Certified Big Data - Specialty](https://aws.amazon.com/certification/certified-big-data-specialty/) 🔥
-* [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) 🔥
+* [AWS Certified Big Data - Specialty](https://aws.amazon.com/certification/certified-big-data-specialty/) ☁️
+* [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) ☁️
 
 #### Education
 * [MS in Information Systems Engineering](https://ep.jhu.edu/programs-and-courses/programs/information-systems-engineering), Johns Hopkins University 🔥
@@ -41,7 +41,7 @@
 
 #### Project Interests
 * [FinTech](https://en.wikipedia.org/wiki/Financial_technology) 💵
-* Cloud Computing 🔥
+* Cloud Computing ☁️
 * Big Data 🔥
 * Data Visualization
 * Parallelism, Concurrency, and Multithreading 🔥
