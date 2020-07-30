@@ -47,9 +47,6 @@
 * Parallelism and Concurrency
 * Full-Stack Web Development
 
-#### Location
-* Fairfax County, Virginia, USA
-
 <!--
 **stoxford/stoxford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
