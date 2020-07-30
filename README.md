@@ -2,11 +2,11 @@
 #### Languages
 * C++ 🔥
 * Java ☕
-* JavaScript 🔥
+* JavaScript ☕
 * PHP
 * SQL 🔥
-* HTML
-* CSS
+* HTML 🕸️
+* CSS 🕸️
 * XML
 * JSON
 * YAML
@@ -18,7 +18,7 @@
 * PyCharm + Anaconda 🐍
 
 #### Operating Systems
-* Ubuntu 18.04 Server 🔥
+* Ubuntu 18.04 Server 🐧
 * macOS Catalina
 * Windows 10
 
@@ -45,7 +45,7 @@
 * Big Data 🔥
 * Data Visualization
 * Parallelism, Concurrency, and Multithreading 🔥
-* Full-Stack Web Development
+* Full-Stack Web Development 🕸️
 
 <!--
 **stoxford/stoxford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
