@@ -33,8 +33,8 @@ Bash | JSON
 
 ### Education
 * [MS in Information Systems Engineering](https://ep.jhu.edu/programs-and-courses/programs/information-systems-engineering), Johns Hopkins University 🎓
-* Certificate in Computer Information Systems, Hawaii Pacific University 🍍🎓
-* BA in the Social Sciences, Hawaii Pacific University 🍍🎓
+* Certificate in Computer Information Systems, Hawaii Pacific University 🎓
+* BA in the Social Sciences, Hawaii Pacific University 🎓
 
 ### Project Interests
 * FinTech 💸
