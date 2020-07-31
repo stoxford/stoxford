@@ -16,16 +16,16 @@ Bash | JSON
 
 ### Operating Systems
 * Ubuntu 18.04 Server 🐧
-* macOS Catalina
+* macOS Catalina 🍎
 * Windows 10
 
 ### Other Technologies
 * Amazon Web Services ☁️
 * Docker 🐳
-* MySQL / MariaDB
+* MySQL 🐬
 * Nginx 🕸️
 * Apache TomEE Plume 🐈
-* VirtualBox
+* VirtualBox 📦
 
 ### Certifications
 * [AWS Certified Big Data - Specialty](https://aws.amazon.com/certification/certified-big-data-specialty/) ☁️🐘
