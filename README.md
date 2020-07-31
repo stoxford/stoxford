@@ -1,28 +1,25 @@
-### 🍒🍒 About Stoxford 🍒🍒
-#### Languages
-* C++ 🔥
-* Java ☕
-* JavaScript ☕
-* PHP
-* SQL 🔥
-* HTML 🕸️
-* CSS 🕸️
-* XML
-* JSON
-* YAML
-* Bash
+## 🍒🍒 About Stoxford 🍒🍒
+### Languages
 
-#### IDEs
+ Back End         | Front End 
+-----------|---------------
+Java ☕ | JavaScript ☕
+C++ 🔥 | HTML 🕸️
+PHP | CSS 🕸️
+SQL 🔥 | XML
+Bash | JSON
+
+### IDEs
 * Apache NetBeans
 * Visual Studio Code 🔥
 * PyCharm + Anaconda 🐍
 
-#### Operating Systems
+### Operating Systems
 * Ubuntu 18.04 Server 🐧
 * macOS Catalina
 * Windows 10
 
-#### Other Technologies
+### Other Technologies
 * Amazon Web Services ☁️
 * Docker 🐳
 * MySQL / MariaDB 🔥
@@ -30,16 +27,16 @@
 * Apache TomEE Plume
 * VirtualBox
 
-#### Certifications
+### Certifications
 * [AWS Certified Big Data - Specialty](https://aws.amazon.com/certification/certified-big-data-specialty/) ☁️
 * [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) ☁️
 
-#### Education
+### Education
 * [MS in Information Systems Engineering](https://ep.jhu.edu/programs-and-courses/programs/information-systems-engineering), Johns Hopkins University 🔥
 * Certificate in Computer Information Systems, Hawaii Pacific University 🍍
 * BA in the Social Sciences, Hawaii Pacific University 🍍
 
-#### Project Interests
+### Project Interests
 * [FinTech](https://en.wikipedia.org/wiki/Financial_technology) 💵
 * Cloud Computing ☁️
 * Big Data 🔥
