@@ -5,7 +5,7 @@
 -----------|---------------
 Java ☕ | JavaScript 🕸️
 C++ 🔥 | HTML 🕸️
-PHP | CSS 🕸️
+PHP 🕸️ | CSS 🕸️
 SQL 🔥 | XML
 Bash | JSON
 
