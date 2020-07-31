@@ -3,7 +3,7 @@
 
  Back End         | Front End 
 -----------|---------------
-Java ☕ | JavaScript ☕
+Java ☕ | JavaScript 🕸️
 C++ 🔥 | HTML 🕸️
 PHP | CSS 🕸️
 SQL 🔥 | XML
@@ -11,7 +11,7 @@ Bash | JSON
 
 ### IDEs
 * Apache NetBeans
-* Visual Studio Code 🔥
+* Visual Studio Code
 * PyCharm + Anaconda 🐍
 
 ### Operating Systems
@@ -22,7 +22,7 @@ Bash | JSON
 ### Other Technologies
 * Amazon Web Services ☁️
 * Docker 🐳
-* MySQL / MariaDB 🔥
+* MySQL / MariaDB
 * Nginx 🕸️
 * Apache TomEE Plume 🐈
 * VirtualBox
