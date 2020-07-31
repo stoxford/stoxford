@@ -4,13 +4,13 @@
  Back End         | Front End 
 -----------|---------------
 Java ☕ | JavaScript 🕸️
-C++ 🔥 | HTML 🕸️
-SQL 🔥 | CSS 🕸️
+C++ 🔧 | HTML 🕸️
+SQL 🔍 | CSS 🕸️
 PHP 🕸️ | XML
-Bash | JSON
+Bash 📜 | JSON
 
 ### IDEs
-* Apache NetBeans
+* Apache NetBeans 🧊
 * Visual Studio Code 🆚
 * PyCharm + Anaconda 🐍
 
