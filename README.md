@@ -1,23 +1,23 @@
-## About Stoxford 🌊🌊🌊🌊🌊
+## About Me 👨‍💻
 ### Languages
 
  Back End         | Front End 
 -----------|---------------
 Java ☕ | JavaScript 🕸️
 C++ 🔥 | HTML 🕸️
-PHP 🕸️ | CSS 🕸️
-SQL 🔥 | XML
+SQL 🔥 | CSS 🕸️
+PHP 🕸️ | XML
 Bash | JSON
 
 ### IDEs
 * Apache NetBeans
-* Visual Studio Code
+* Visual Studio Code 🆚
 * PyCharm + Anaconda 🐍
 
 ### Operating Systems
 * Ubuntu 18.04 Server 🐧
 * macOS Catalina 🍎
-* Windows 10
+* Windows 10 ♻️
 
 ### Other Technologies
 * Amazon Web Services ☁️
