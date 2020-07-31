@@ -1,4 +1,4 @@
-## 🍒🍒 About Stoxford 🍒🍒
+## About Stoxford 🌊🌊🌊🌊🌊
 ### Languages
 
  Back End         | Front End 
@@ -23,25 +23,25 @@ Bash | JSON
 * Amazon Web Services ☁️
 * Docker 🐳
 * MySQL / MariaDB 🔥
-* Nginx
-* Apache TomEE Plume
+* Nginx 🕸️
+* Apache TomEE Plume 🐈
 * VirtualBox
 
 ### Certifications
-* [AWS Certified Big Data - Specialty](https://aws.amazon.com/certification/certified-big-data-specialty/) ☁️
+* [AWS Certified Big Data - Specialty](https://aws.amazon.com/certification/certified-big-data-specialty/) ☁️🐘
 * [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) ☁️
 
 ### Education
-* [MS in Information Systems Engineering](https://ep.jhu.edu/programs-and-courses/programs/information-systems-engineering), Johns Hopkins University 🔥
-* Certificate in Computer Information Systems, Hawaii Pacific University 🍍
-* BA in the Social Sciences, Hawaii Pacific University 🍍
+* [MS in Information Systems Engineering](https://ep.jhu.edu/programs-and-courses/programs/information-systems-engineering), Johns Hopkins University 🎓
+* Certificate in Computer Information Systems, Hawaii Pacific University 🍍🎓
+* BA in the Social Sciences, Hawaii Pacific University 🍍🎓
 
 ### Project Interests
-* [FinTech](https://en.wikipedia.org/wiki/Financial_technology) 💵
+* FinTech 💸
 * Cloud Computing ☁️
-* Big Data 🔥
-* Data Visualization
-* Parallelism, Concurrency, and Multithreading 🔥
+* Big Data 🐘
+* Data Visualization 📊📈
+* Parallelism, Concurrency, and Multithreading 🧵🧵🧵🧵
 * Full-Stack Web Development 🕸️
 
 <!--
