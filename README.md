@@ -3,7 +3,21 @@
 ## About Me 👨‍💻
 
 ### Languages
+#### Back End
+* Java ☕
+* C++ 🔧
+* SQL 🔍
+* PHP 🕸️
+* Bash 📜
 
+#### Front End
+* JavaScript 🕸️
+* HTML 🕸️
+* CSS 🕸️
+* XML
+* JSON
+ 
+ 
 ### IDEs
 * Apache NetBeans 🧊
 * Visual Studio Code 🆚
