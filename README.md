@@ -4,14 +4,6 @@
 
 ### Languages
 
- Back End         | Front End 
------------|---------------
-Java ☕ | JavaScript 🕸️
-C++ 🔧 | HTML 🕸️
-SQL 🔍 | CSS 🕸️
-PHP 🕸️ | XML
-Bash 📜 | JSON
-
 ### IDEs
 * Apache NetBeans 🧊
 * Visual Studio Code 🆚
