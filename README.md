@@ -1,6 +1,6 @@
-## About Me 👨‍💻
+<img align="right" src="https://github.com/stoxford/stoxford/blob/master/AWS-Certified-Diagonal.png"/>
 
-![AWS Certified](https://github.com/stoxford/stoxford/blob/master/AWS-Certified-Diagonal.png)
+## About Me 👨‍💻
 
 ### Languages
 
