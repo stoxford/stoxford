@@ -6,8 +6,8 @@
 #### Back End
 * Java ☕
 * C++ 🔧
-* SQL 🔍
 * PHP 🕸️
+* SQL 🔍
 * Bash 📜
 
 #### Front End
