@@ -22,11 +22,13 @@
 * Apache NetBeans 🧊
 * Visual Studio Code 🆚
 * PyCharm + Anaconda 🐍
+* Atom
+* vi
 
 ### Operating Systems
-* Ubuntu 18.04 Server 🐧
-* macOS Catalina 🍎
-* Windows 10 ♻️
+* Ubuntu Server 🐧
+* macOS 🍎
+* Windows ♻️
 
 ### Other Technologies
 * Amazon Web Services ☁️
@@ -46,9 +48,9 @@
 * BA in the Social Sciences, Hawaii Pacific University 🎓
 
 ### Project Interests
-* FinTech 💸
 * Cloud Computing ☁️
 * Big Data 🐘
+* FinTech 💸
 * Data Visualization 📊📈
 * Parallelism, Concurrency, and Multithreading 🧵🧵🧵🧵
 * Full-Stack Web Development 🕸️
