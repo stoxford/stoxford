@@ -33,7 +33,7 @@
 * Docker 🐳
 * MySQL 🐬
 * Nginx 🕸️
-* Apache TomEE Plume 🐈
+* Apache TomEE 🐈
 * VirtualBox 📦
 
 ### Certifications
