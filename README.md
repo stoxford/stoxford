@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/stoxford/stoxford/blob/master/AWS-Certified.png"/>
+<img align="right" width="620px" src="https://github.com/stoxford/stoxford/blob/master/AWS-Certified.png"/>
 
 ## About Me 👨‍💻
 
