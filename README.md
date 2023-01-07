@@ -1,45 +1,46 @@
-<img align="right" width="620px" src="https://github.com/stoxford/stoxford/blob/master/AWS-Certified.png"/>
+<a href="https://www.credly.com/users/james-parsons.a756bd1b/badges?sort=-state_updated_at&page=1" border="0"><img align="right" width="620px" src="https://github.com/stoxford/stoxford/blob/master/AWS-Certified.png"/></a>
 
 ## About Me 👨‍💻
 
-### Languages
-#### Back End
+### Back End Languages
 * Java ☕
 * C++ 🔧
-* PHP 🕸️
 * SQL 🔍
+* PHP 🕸️
 * Bash 📜
 
-#### Front End
+### Front End Languages
 * JavaScript 🕸️
 * HTML 🕸️
 * CSS 🕸️
-* XML
 * JSON
- 
- 
+* XML
+
+### Back End Technology Stack
+* Amazon Web Services ☁️
+* Ubuntu Server 🐧
+* Docker 🐳
+* MySQL 🐬
+* Nginx 🕸️
+* AppArmor &amp; Uncomplicated Firewall (ufw) 🏰
+* Apache TomEE 🐈
+* VirtualBox 📦
+
+### Operating Systems
+* Linux 🐧
+* macOS 🍎
+* Windows ♻️
+
 ### IDEs
 * Apache NetBeans 🧊
 * Visual Studio Code 🆚
 * PyCharm + Anaconda 🐍
-* Atom
-* vi
-
-### Operating Systems
-* Ubuntu Server 🐧
-* macOS 🍎
-* Windows ♻️
-
-### Other Technologies
-* Amazon Web Services ☁️
-* Docker 🐳
-* MySQL 🐬
-* Nginx 🕸️
-* Apache TomEE 🐈
-* VirtualBox 📦
+* RStudio 🧮
+* Atom 📝
+* vi 📜
 
 ### Certifications
-* [AWS Certified Big Data - Specialty](https://aws.amazon.com/certification/certified-big-data-specialty/) ☁️🐘
+* [AWS Certified Big Data - Specialty](https://aws.amazon.com/certification/certified-big-data-specialty/) ☁️ 🐘
 * [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) ☁️
 
 ### Education
@@ -50,6 +51,7 @@
 ### Project Interests
 * Cloud Computing ☁️
 * Big Data 🐘
+* Cybersecurity 🔐
 * FinTech 💸
 * Data Visualization 📊📈
 * Parallelism, Concurrency, and Multithreading 🧵🧵🧵🧵
