@@ -32,8 +32,8 @@
 * Windows ♻️
 
 ### IDEs
-* Apache NetBeans 🧊
 * Visual Studio Code 🆚
+* Apache NetBeans 🧊
 * PyCharm + Anaconda 🐍
 * RStudio 🧮
 * Atom 📝
