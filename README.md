@@ -19,22 +19,22 @@
 ### Back End Technology Stack
 * Amazon Web Services ☁️
 * Ubuntu Server 🐧
-* Docker 🐳
 * MySQL 🐬
+* Docker 🐳
 * Nginx 🕸️
 * AppArmor &amp; Uncomplicated Firewall (ufw) 🏰
-* Apache TomEE 🐈
+* Apache TomEE &amp; Tomcat 🐈
 * VirtualBox 📦
 
 ### Operating Systems
 * Linux 🐧
-* macOS 🍎
+* macOS (UNIX® certified) 🍎
 * Windows ♻️
 
 ### IDEs
 * Visual Studio Code 🆚
 * Apache NetBeans 🧊
-* PyCharm + Anaconda 🐍
+* PyCharm 🐍
 * RStudio 🧮
 * Atom 📝
 * vi 📜
@@ -52,7 +52,7 @@
 * Cloud Computing ☁️
 * Big Data 🐘
 * Cybersecurity 🔐
-* FinTech 💸
+* Financial Technology 💸
 * Data Visualization 📊📈
 * Parallelism, Concurrency, and Multithreading 🧵🧵🧵🧵
 * Full-Stack Web Development 🕸️
