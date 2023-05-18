@@ -22,13 +22,13 @@
 * MySQL 🐬
 * Docker 🐳
 * Nginx 🕸️
-* AppArmor &amp; Uncomplicated Firewall (ufw) 🏰
+* AppArmor &amp; UFW (Security) 🏰
 * Apache TomEE &amp; Tomcat 🐈
 * VirtualBox 📦
 
 ### Operating Systems
 * Linux 🐧
-* macOS (UNIX® certified) 🍎
+* macOS ([UNIX® Certified](https://www.opengroup.org/openbrand/register/)) 🍎
 * Windows ♻️
 
 ### IDEs
