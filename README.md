@@ -2,6 +2,8 @@
 
 ## About Me 👨‍💻
 
+I use AWS CodeCommit to host my private source code repositories. Previously I used Atlassian BitBucket.
+
 ### Back End Languages
 * Java ☕
 * C++ 🔧
@@ -11,6 +13,7 @@
 
 ### Front End Languages
 * JavaScript 🕸️
+* TypeScript 🕸️
 * HTML 🕸️
 * CSS 🕸️
 * JSON
@@ -24,6 +27,7 @@
 * Nginx 🕸️
 * AppArmor &amp; UFW (Security) 🏰
 * Apache TomEE &amp; Tomcat 🐈
+* Hibernate 🥶
 * VirtualBox 📦
 
 ### Operating Systems
@@ -37,7 +41,8 @@
 * PyCharm 🐍
 * RStudio 🧮
 * Atom 📝
-* vi 📜
+* vim 📜
+* neovim 📜
 
 ### Certifications
 * [AWS Certified Big Data - Specialty](https://aws.amazon.com/certification/certified-big-data-specialty/) ☁️ 🐘
